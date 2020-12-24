@@ -1,0 +1,42 @@
+#to-show {
+    display: none;
+}
+#to-hover:hover > #to-show {
+    display: block; 
+}
+#to-show2 {
+    display: none;
+}
+#to-hover2:hover > #to-show2 {
+    display: block; 
+}
+#to-show3 {
+    display: none;
+}
+#to-hover3:hover > #to-show3 {
+    display: block; 
+}
+#to-show4 {
+    display: none;
+}
+#to-hover4:hover > #to-show4 {
+    display: block; 
+}
+#to-show5 {
+    display: none;
+}
+#to-hover5:hover > #to-show5 {
+    display: block; 
+}
+#to-show6 {
+    display: none;
+}
+#to-hover6:hover > #to-show6 {
+    display: block; 
+}
+#to-show7 {
+    display: none;
+}
+#to-hover7:hover > #to-show7 {
+    display: block; 
+}

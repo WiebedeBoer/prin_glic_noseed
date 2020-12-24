@@ -1,0 +1,11 @@
+body>header .logo-and-name .site-name {
+  display: block;
+  background: url(/assets/img/PRIN6.png) 100% no-repeat;
+  width: 113px;
+  height: 46px;
+  z-index: 1000;
+}
+.star {
+  background: url(/fonts/agenda-black.svg?89e3519…) center 2px no-repeat;
+  background-size: 80%;
+}
